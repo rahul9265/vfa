@@ -161,8 +161,7 @@ nav>ul>li>a {
 
 .img-slider {
     width: 50%;
-    height: min-content;
-    box-shadow: 0px 0px 20px black;
+    box-shadow: 0px 0px 50px black;
     position: relative;
 }
 .position-relative {
@@ -214,9 +213,9 @@ nav>ul>li>a {
 
 /* service section */
 .service {
-    background-image: url(./img/serviceBG.jpg);
+    background-image: url(../img/serviceBG.jpg);
     margin: 0 auto;
-    width: 90vw;
+    width: 95vw;
     background-repeat: no-repeat;
     background-size: cover;
     color: white;
@@ -269,7 +268,7 @@ nav>ul>li>a {
 }
 
 .sv-card>div {
-    padding: 15px;
+    padding: 0px 20px;
     border-radius: 80px;
     background-color: #fff;
 }
